@@ -1,1 +1,2 @@
-# DSE_PUB
+# DSE
+Directorate of School Education

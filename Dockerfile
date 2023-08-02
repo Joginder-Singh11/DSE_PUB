@@ -7,4 +7,4 @@ RUN python manage.py migrate
 EXPOSE 8000
 CMD ["python","manage.py","runserver","0.0.0.0:8000"]
 
-####Build trigger from webhook 18:03PM####
+####Build trigger from webhook 10:50AM####

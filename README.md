@@ -1,4 +1,4 @@
 # DSE
 Directorate of School Education
-Panchkula Sector-2 Haryana
+Panchkula Sector-5 Haryana
 
